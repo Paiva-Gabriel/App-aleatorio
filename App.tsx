@@ -16,7 +16,8 @@ function App(){
     '"Coma o dobro de carne por dia, assim você anula a causa de algum vegano por ai"',
     '"Alcool não é a solução para os problemas, as drogas sim"',
     '"Arma é que nem bala, quando você mostra, todo mundo quer virar seu amigo"',
-    '"Teste"'
+    '"Teste"',
+    '"Teste 2"'
   ]
 
   function Sim(){
